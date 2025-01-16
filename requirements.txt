@@ -1,0 +1,5 @@
+phidata
+python-dotenv
+phi
+groq
+duckduckgo-search
